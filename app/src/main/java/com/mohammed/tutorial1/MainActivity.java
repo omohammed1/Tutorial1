@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-public static final String extraMessage = "com.abotameem.tutorial1.extraMessage";
+public static final String extraMessage = "com.abotameem.tutorial1.Message";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
